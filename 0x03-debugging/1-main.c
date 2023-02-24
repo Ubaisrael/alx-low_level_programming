@@ -13,8 +13,7 @@ int main(void)
 
 	i = 0;
 
-	/**
-	 * Don't delete it!*/
+	
 	/*while (i < 10)*/
 	/*{*/
 	/*putchar(i);*/
